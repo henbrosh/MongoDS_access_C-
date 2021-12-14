@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\bin\Debug\net6.0\MongoDataAccess.deps.json
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\bin\Debug\net6.0\MongoDataAccess.dll
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\bin\Debug\net6.0\ref\MongoDataAccess.dll
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\bin\Debug\net6.0\MongoDataAccess.pdb
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.AssemblyInfo.cs
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.dll
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\obj\Debug\net6.0\ref\MongoDataAccess.dll
+C:\Users\user\source\repos\MongoDB\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.pdb
